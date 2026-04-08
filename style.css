@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+
+h4 {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+form input {
+    margin-bottom: 6px;
+}
+
+table.table th, table.table td {
+    text-align: center;
+    vertical-align: middle;
+}
